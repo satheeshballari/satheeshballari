@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on web development positions in reputed organizations.
-- 📫 How to reach me mail me - sathishballari1100@
+- 📫 How to reach me mail me - sathishballari1100@gmail.com
 
 <!---
 satheeshballari/satheeshballari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
